@@ -1,9 +1,3 @@
-# 🔥 Frontend Mentor Challenge 🔥
-## QR Code component using Next.js13 + TailwindCSS
-- preview site: https://yewdev-frontend-mentor-qrcode-component.vercel.app/
-- visit my profile:  https://www.frontendmentor.io/profile/Yewdev
-
-
 <div align="center">
 
   <h3 align="center"><b>🔥 Frontend Mentor Challenge 🔥</b></h3>
